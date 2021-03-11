@@ -1,3 +1,4 @@
+k = int(input())
 m = input()
 a = list(m)
 A = 0
