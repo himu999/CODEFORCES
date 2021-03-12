@@ -16,5 +16,3 @@ if upper > lower:
     print(string.upper())
 else:
     print(string.lower())
-
-
